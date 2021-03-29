@@ -16,3 +16,6 @@ Depending on the subject depth, I plan to post the summaries and code bits in my
 I hope to conclude this book, trying all the code examples and answering the exercises in a period of 6 months.
 * Date I started the project: 03/22/2021
 * Maximum date to finish it : 09/22/2021
+
+**First chapter conclusion**: 
+**Second chapter conclusion**: 
