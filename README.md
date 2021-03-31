@@ -1,5 +1,3 @@
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/souzajvp)](https://github.com/souzajvp)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-perez-de-souza/)](https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-perez-de-souza/)
 
 # hands-on-ML
 Repository to work through the book "Hands–On Machine Learning with Scikit–Learn and TensorFlow 2e: Concepts, Tools, and Techniques to Build Intelligent Systems".
@@ -17,5 +15,13 @@ I hope to conclude this book, trying all the code examples and answering the exe
 * Date I started the project: 03/22/2021
 * Maximum date to finish it : 09/22/2021
 
-**First chapter conclusion**: 
-**Second chapter conclusion**: 
+**First chapter conclusion**: 23/03/2021 <br>
+
+**Second chapter conclusion**:30/03/2021 <br>
+
+**Third chapter conclusion**: <br>
+
+
+## Posts
+
+1. [Lauching the project - a way to be accountable (pt-br)](https://www.linkedin.com/posts/jo%C3%A3o-v%C3%ADtor-perez-de-souza_souzajvphands-on-ml-activity-6782797335106781184-28-q) 
