@@ -19,7 +19,7 @@ I hope to conclude this book, trying all the code examples and answering the exe
 
 **Second chapter conclusion**:30/03/2021 <br>
 
-**Third chapter conclusion**: <br>
+**Third chapter conclusion**: This chapter is essential for my near future. In this sense I am dedicating myself to work through it! The exercises are challenging, but I will finish them before going forward. <br>
 
 
 ## Posts
